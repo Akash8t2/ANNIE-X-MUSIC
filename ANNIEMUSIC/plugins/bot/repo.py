@@ -31,13 +31,13 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/JARVIS_V2"),
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/JARVIS_V_SUPPORT"),
+             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/AllllllllllllllIllllllll"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Ak_support1"),
              ],
      
              [
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/Dora_Hub"),          
-             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://github.com/doraemon890/ANNIE-X-MUSIC"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/Ak_support1"),          
+             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://t.me/Ak_support1"),
              ],
      
               ]
